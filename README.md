@@ -1,1 +1,1 @@
-# curos-k6
+# Reposiório dedicado ao estudo da ferramenta K6
