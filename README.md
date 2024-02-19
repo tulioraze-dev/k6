@@ -1,1 +1,1 @@
-# Reposiório dedicado ao estudo da ferramenta K6
+# Repositório dedicado ao estudo da ferramenta K6
