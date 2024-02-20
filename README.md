@@ -1,0 +1,1 @@
+# Repositório dedicado ao estudo do k6
